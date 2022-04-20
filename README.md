@@ -1,0 +1,2 @@
+# perm1b_grupo_5.py
+Este programa tiene como función ser un cajero automático en el cual primero debes de colocar tu contraseña después desde el menú de opciones puedes retirar, ver tu saldo y salir. Al elegir la opción retirar te ofrece varias opciones preestablecidas incluyendo una opción de monto personalizado, una vez retirado el dinero se podrá observar tu saldo actual automáticamente al final podrás salir del cajero y volver a colocar la contraseña para reingresar; antes de retirar también se puede observar el saldo que tengas.
